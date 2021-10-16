@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "6169c74819b370c9678d2b94"
+  },
+  "name": "The Crystal Shard",
+  "author": "R. A. Salvatore",
+  "keywords": [
+    "Fantasy",
+    "Classic"
+  ]
+},{
+  "_id": {
+    "$oid": "6169c90619b370c9678d2b9e"
+  },
+  "name": "Foundation",
+  "author": "Isaac Asimov",
+  "keywords": [
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "6169d7a8416a26599e69eca1"
+  },
+  "name": "Dune",
+  "author": "Frank Herbert",
+  "keywords": [
+    "Best Selling"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6169dabf19b370c9678d2ba1"
+  },
+  "name": "I, Robot",
+  "author": "Isaac Asimov",
+  "keywords": [
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dabf19b370c9678d2ba2"
+  },
+  "name": "Prelude to Foundation",
+  "author": "Isaac Asimov",
+  "keywords": [
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dabf19b370c9678d2ba3"
+  },
+  "name": "The Caves of Steel",
+  "author": "Isaac Asimov",
+  "keywords": [
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dabf19b370c9678d2ba4"
+  },
+  "name": "Foundation's Edge",
+  "author": "Isaac Asimov",
+  "keywords": [
+    "Science Fiction"
+  ]
+},{
+  "_id": {
+    "$oid": "6169db9d19b370c9678d2ba6"
+  },
+  "name": "Homeland",
+  "author": "R. A. Salvatore",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169db9d19b370c9678d2ba7"
+  },
+  "name": "Sojourn",
+  "author": "R. A. Salvatore",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169db9d19b370c9678d2ba8"
+  },
+  "name": "Exile",
+  "author": "R. A. Salvatore",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169db9d19b370c9678d2ba9"
+  },
+  "name": "Siege of Darkness",
+  "author": "R. A. Salvatore",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dc1819b370c9678d2bab"
+  },
+  "name": "Heretics of Dune",
+  "author": "Frank Herbert",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dc1819b370c9678d2bac"
+  },
+  "name": "Dune Messiah",
+  "author": "Frank Herbert",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dc1819b370c9678d2bad"
+  },
+  "name": "The Road to Dune",
+  "author": "Frank Herbert",
+  "keywords": [
+    "Fantasy"
+  ]
+},{
+  "_id": {
+    "$oid": "6169dc1819b370c9678d2bae"
+  },
+  "name": "The Lazarus Effect",
+  "author": "Frank Herbert",
+  "keywords": [
+    "Fantasy"
+  ]
+}]
