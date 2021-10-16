@@ -21,7 +21,7 @@ For example queries you can look below or look at the tests(`/test` folder):
     GET `localhost:3000/books`
   * Create a book:
     * POST `localhost:3000/books`
-     * `body: 
+     * BODY: ` 
       name: "The Book Name"
       author: "Author Name"
       keywords: "An array of keywords for the book"`
@@ -29,7 +29,7 @@ For example queries you can look below or look at the tests(`/test` folder):
     * GET `localhost:3000/books/6169c74819b370c9678d2b94`
   * Update a book:
     * PUT `localhost:3000/books/6169c74819b370c9678d2b94`
-     *`body:
+     * BODY: `
        name: "The Book Name"
       author: "Author Name"
       keywords: "An array of keywords for the book"`
