@@ -7,10 +7,10 @@ git clone git@github.com:davidahines/rest_api_example.git
 2) install the packages 
 npm install
 
-
-3a) Copy the config folder I send you into the cloned directory to get the connection info to the mongo atlas.
-   OR
-3b) Create a config folder with the files: dev.json, test.json, and default.json, these should contain an object with a key called "DBHost" and a value of your mongo connection string. You can create the test data using the books.json file in the root of the repo.
+3) Set up the database Connection
+Copy the config folder I send you into the cloned directory to get the connection info to the mongo atlas.
+ OR
+Create a config folder with the files: dev.json, test.json, and default.json, these should contain an object with a key called "DBHost" and a value of your mongo connection string. You can create the test data using the books.json file in the root of the repo.
       
 4) Running the Tests to confirm the application is setup and working:
 npm test
