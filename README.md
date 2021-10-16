@@ -8,11 +8,11 @@ Setup:
 * Set up the database Connection
   * OPTION A: Copy the config folder I send you into the cloned directory to get the connection info to the mongo atlas.
   * OPTION B: Create a config folder with the files: 
-   * `dev.json` 
-   * `test.json`
-   * `default.json`, 
+   *   `dev.json` 
+   *   `test.json`
+   *   `default.json`, 
    * these should contain an object with a key called `"DBHost"` and a value of your mongo connection string. 
-    * `{"DBHost": "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]"}`
+    *   `{"DBHost": "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]"}`
    * You can create the test data using the `books.json` file in the root of the repo.
       
 * Running the Tests to confirm the application is setup and working: 
